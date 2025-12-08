@@ -1,0 +1,54 @@
+{
+  "CS101": [
+    "charlie",
+    "alice",
+    "xavier",
+    "bob",
+    "frank",
+    "zoe"
+  ],
+  "MATH201": [
+    "daniel",
+    "alice",
+    "eve"
+  ],
+  "PHYS150": [
+    "bob",
+    "kevin",
+    "george",
+    "frank"
+  ],
+  "ENG202": [
+    "isla",
+    "charlie",
+    "xavier",
+    "bob",
+    "harry",
+    "julia"
+  ],
+  "BIO105": [
+    "isla",
+    "charlie",
+    "lucas",
+    "eve",
+    "george",
+    "zoe"
+  ],
+  "HIST300": [
+    "bob",
+    "harry"
+  ],
+  "PSY250": [
+    "alice",
+    "kevin",
+    "isla",
+    "julia"
+  ],
+  "CS202": [
+    "bob",
+    "alice",
+    "lucas",
+    "daniel"
+  ],
+  "CS12312": []
+}

@@ -1,0 +1,57 @@
+{
+  "monday": [
+    "MATH201",
+    "CS202",
+    "CS101",
+    "ENG202",
+    "HIST300",
+    "PHYS150",
+    "BIO105",
+    "PSY250",
+    "CS12312"
+  ],
+  "tuesday": [
+    "MATH201",
+    "CS202",
+    "CS101",
+    "ENG202",
+    "HIST300",
+    "PHYS150",
+    "BIO105",
+    "PSY250",
+    "CS12312"
+  ],
+  "wednesday": [
+    "MATH201",
+    "CS202",
+    "CS101",
+    "ENG202",
+    "HIST300",
+    "PHYS150",
+    "BIO105",
+    "PSY250",
+    "CS12312"
+  ],
+  "thursday": [
+    "MATH201",
+    "CS202",
+    "CS101",
+    "ENG202",
+    "HIST300",
+    "PHYS150",
+    "BIO105",
+    "PSY250",
+    "CS12312"
+  ],
+  "friday": [
+    "MATH201",
+    "CS202",
+    "CS101",
+    "ENG202",
+    "HIST300",
+    "PHYS150",
+    "BIO105",
+    "PSY250",
+    "CS12312"
+  ]
+}

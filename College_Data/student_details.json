@@ -1,0 +1,68 @@
+{
+  "alice": [
+    "CS202",
+    "PSY250",
+    "CS101",
+    "MATH201"
+  ],
+  "bob": [
+    "CS202",
+    "CS101",
+    "ENG202",
+    "PHYS150",
+    "HIST300"
+  ],
+  "charlie": [
+    "CS101",
+    "ENG202",
+    "BIO105"
+  ],
+  "daniel": [
+    "CS202",
+    "MATH201"
+  ],
+  "eve": [
+    "CHEM110",
+    "BIO105",
+    "MATH201"
+  ],
+  "frank": [
+    "CS101",
+    "PHYS150"
+  ],
+  "george": [
+    "PHYS150",
+    "BIO105"
+  ],
+  "harry": [
+    "ENG202",
+    "HIST300"
+  ],
+  "isla": [
+    "PSY250",
+    "ENG202",
+    "BIO105"
+  ],
+  "zoe": [
+    "CS101",
+    "BIO105"
+  ],
+  "xavier": [
+    "CHEM110",
+    "CS101",
+    "ENG202"
+  ],
+  "julia": [
+    "PSY250",
+    "ENG202"
+  ],
+  "kevin": [
+    "PSY250",
+    "PHYS150"
+  ],
+  "lucas": [
+    "CS202",
+    "ART180",
+    "BIO105"
+  ]
+}
