@@ -26,19 +26,19 @@ A simple and interactive **Python-based College Course Management System** for m
 
 College-Course-Management-System/
 
-├── main.py
+    ├── main.py
+    
+    ├── interface_functions.py
+    
+    ├── useful_functions.py
+    
+    └── College_Data/
 
-├── interface_functions.py
-
-├── useful_functions.py
-
-└── College_Data/
-
-    ├── college_course.json
-  
-    ├── student_details.json
-  
-    └── weekly_schedule.json
+      ├── college_course.json
+    
+      ├── student_details.json
+    
+      └── weekly_schedule.json
 
 
 ---
