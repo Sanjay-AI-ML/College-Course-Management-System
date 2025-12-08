@@ -34,11 +34,11 @@ College-Course-Management-System/
 
 └── College_Data/
 
-  ├── college_course.json
+    ├── college_course.json
   
-  ├── student_details.json
+    ├── student_details.json
   
-  └── weekly_schedule.json
+    └── weekly_schedule.json
 
 
 ---
