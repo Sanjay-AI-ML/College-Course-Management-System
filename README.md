@@ -1,6 +1,8 @@
-# 🎓 College Course Management System
+# College Course Management System
 
-A simple and interactive **Python-based College Course Management System** for managing courses, student enrollments, and weekly schedules. The system is fully menu-driven and stores all data using JSON, keeping it easy to use and extend.
+![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white) ![JSON](https://img.shields.io/badge/storage-json-blue) ![Validation](https://img.shields.io/badge/validation-strict-green) ![Backup](https://img.shields.io/badge/backup-auto-green)
+
+A simple and interactive Python-based College Course Management System for managing courses, student enrollments, and weekly schedules. The system is fully menu-driven.
 
 ---
 
